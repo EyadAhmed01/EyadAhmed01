@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyad Abdelhafez</h1>
+<h1 align="center">Eyad Abdelhafez</h1>
 <h3 align="center">
 Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 </h3>
@@ -59,6 +59,46 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
   - Chatbot systems
 
 ---
+## 🧠 Machine Learning & LLM Projects
+
+- **Generative Classification Models**  
+  https://github.com/EyadAhmed01/GenerativeClassificationModels
+
+- **KNN Classification & House Price Prediction**  
+  https://github.com/EyadAhmed01/KNN-Classification-and-House-Price-Prediction
+
+- **MNIST Digit Recognition**  
+  https://github.com/EyadAhmed01/mnist-digit-recognition
+
+- **PCA, Autoencoders, K-Means & GMM Implementations**  
+  https://github.com/EyadAhmed01/PCAAutoencodersKMeansGMMImplementation
+
+---
+
+## ☕ Java Projects (OOP & Desktop Applications)
+
+- **Gym Management System (Java, OOP)**  
+  https://github.com/EyadAhmed01/Gym_managment-system
+
+- **Painting Application (Java Swing)**  
+  https://github.com/EyadAhmed01/painting_application
+
+---
+
+## 🌐 Web Development Projects
+
+- **E-Commerce Website**  
+  https://github.com/EyadAhmed01/e-cmrc
+
+- **Book Store Website**  
+  https://github.com/EyadAhmed01/Book-Store-website
+
+- **Cooking Website**  
+  https://github.com/EyadAhmed01/Cooking-Website
+
+---
+
+---
 
 ## 📌 Featured Projects
 - 🔹 **Machine Learning Digit Recognition**
@@ -67,6 +107,7 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 - 🔹 **LLM Prompt Engineering & Agent Experiments**
 
 ---
+
 
 
 ## 🌐 Connect With Me
