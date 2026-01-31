@@ -81,8 +81,7 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/eyad-ahmed-63005a2a8
-" target="_blank">
+<a href="www.linkedin.com/in/eyad-ahmed-63005a2a8" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
 </a>
 <a href="https://github.com/EyadAhmed01" target="_blank">
@@ -91,10 +90,3 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 </p>
 
 ---
-
-## ☕ Support
-If you find my projects useful:
-
-<a href="https://www.buymeacoffee.com/eyadabdelhafez">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
