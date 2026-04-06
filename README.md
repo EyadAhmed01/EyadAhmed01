@@ -6,13 +6,21 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student at **Alexandria University**
-- 🤖 Focused on **Machine Learning**, **LLMs**, and **AI-driven applications**
-- 🧠 Certified by **NVIDIA – Building LLM Applications with Prompt Engineering**
-- 💡 Strong foundation in **Java, OOP, Design Patterns, and Data Structures**
-- 🌱 Currently deepening knowledge in **LLM agents, chatbots, and ML pipelines**
-- 💬 Ask me about **ML fundamentals, Java, prompt engineering, or algorithms**
-- 📫 Reach me at: **eyadaxe@gmail.com**
+# Computer & Communication Engineering student at Alexandria University (Expected 2027)
+
+# AI Engineer focused on LLM Architectures, RAG Pipelines, and Agentic AI
+
+* Scale AI Alumnus: Experienced in LLM Evaluation and optimizing AI-generated code
+
+* Certified by NVIDIA & ITI – Building LLM Applications with Prompt Engineering & RAG
+
+* Tech Stack: Python (PyTorch, LangChain, FastAPI), Java, C++, and Vector Databases
+
+* Currently developing: Gemma4 Assistant (Local RAG) and AI-driven recommendation engines
+
+* Ask me about RAG workflows, Prompt Engineering (CoT, Few-shot), or ML Implementation
+
+* Reach me at: eyadaxe@gmail.com
 
 ---
 
@@ -60,6 +68,11 @@ Computer Engineering Student | Machine Learning & LLM Developer | Java & Python
 
 ---
 ## 🧠 Machine Learning & LLM Projects
+-**Gemma 4 assistant**
+  https://github.com/EyadAhmed01/gemma4-assistant
+
+-**Movies-hub personal movie ranking**
+  https://github.com/EyadAhmed01/movieshub
 
 - **Generative Classification Models**  
   https://github.com/EyadAhmed01/GenerativeClassificationModels
